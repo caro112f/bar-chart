@@ -34,13 +34,3 @@ function createNewBar() {
     (array[0] / 32) * 100
   }%;"></div>`;
 }
-
-//   newBar.innerHTML = `<div class="bar"></div>`;
-//   newBar.classList.add("bar");
-//   newBar.style.height = `${queueSize * 3}px`;
-
-// function displayData() {}
-// function modifyArray() {}
-
-// .innerHTML += `<div class="box" style="width:${counter}px; height:${counter}px"></div>`;
-// style = "height:${counter}px";
